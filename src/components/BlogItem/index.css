@@ -1,0 +1,44 @@
+.listEdit {
+  list-style-type: none;
+  width: 95%;
+  border-radius: 8px;
+  border: 2px;
+  border-color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.imgEdit {
+  height: 70px;
+  width: 150px;
+}
+
+.list2contEdit {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.paraEdit {
+  color: grey;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.headEdit {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.avatarCont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
